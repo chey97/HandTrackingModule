@@ -2,9 +2,8 @@
 
 This Python script utilizes OpenCV and MediaPipe to detect and track hands in real-time using a webcam feed.
 
-## Video Demo
-
 ![Hand Tracking Demo GIF](handDetector.gif)
+![Hand Tracking Land Marks](handLandMarks.png)
 
 ## Dependencies
 
