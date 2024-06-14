@@ -9,9 +9,6 @@ This Python script utilizes OpenCV and MediaPipe to detect and track hands in re
   Your browser does not support the video tag.
 </video>
 
-
-Click the image above to watch the hand tracking demo video.
-
 ## Dependencies
 
 Make sure you have the following dependencies installed:
