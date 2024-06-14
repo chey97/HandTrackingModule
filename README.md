@@ -6,6 +6,8 @@ This Python script utilizes OpenCV and MediaPipe to detect and track hands in re
 
 [![Watch the video](https://raw.githubusercontent.com/chey97/HandTrackingModule/main/handDetector.png)](https://raw.githubusercontent.com/chey97/HandTrackingModule/main/handDetector.mp4)
 
+## gif
+
 ![Hand Tracking Demo GIF](handDetector.gif)
 
 ## Dependencies
